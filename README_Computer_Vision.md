@@ -16,7 +16,7 @@
 
 ## Overview
 
-This project explores the core principles of computer vision, its role in artificial intelligence, and practical implementations using Azure's Computer Vision API. It includes analysis of real-world applications across healthcare, transportation, retail, and agriculture domains.
+This project examines the fundamental principles of computer vision, its role in artificial intelligence, and practical applications utilising Azure's Computer Vision API. It includes analysis of real-world applications across healthcare, transportation, retail, and agriculture domains.
 
 ## Core Concepts
 
@@ -32,7 +32,7 @@ Computer vision is a field of artificial intelligence that enables machines to a
 - **Hybrid Models**: Combining CNN efficiency with Transformer attention mechanisms
 
 **Learning Approaches:**
-- Supervised learning using large labeled datasets (ImageNet, COCO)
+- Supervised learning using large labelled datasets (ImageNet, COCO)
 - Unsupervised pre-training methods (BEiT, MAE)
 - Transfer learning for domain-specific applications
 
@@ -81,7 +81,7 @@ headers = {
 }
 
 params = {
-    'visualFeatures': 'Categories,Description,Objects,Tags'
+    'visualFeatures': 'Categories, Description, Objects, Tags'
 }
 
 response = requests.post(
@@ -147,7 +147,7 @@ response = requests.post(
 | Early Detection | 7-10 days before human visibility |
 | Fungicide Reduction | 72% |
 | Yield Increase | 14.3% |
-| Labor Efficiency | 1 technician replaces 8-12 workers |
+| Labour Efficiency | 1 technician replaces 8-12 workers |
 
 **Architecture:** Hybrid edge/cloud computing with real-time alerts
 
@@ -180,8 +180,8 @@ response = requests.post(
 
 - Vision Transformers matching/exceeding CNN performance on classification
 - Multimodal integration (vision + language) enabling richer understanding
-- Self-supervised pre-training reducing labeled data requirements
-- Edge-cloud hybrid architectures becoming industry standard
+- Self-supervised pre-training reduces labelled data requirements
+- Edge-cloud hybrid architectures are becoming the industry standard
 
 ## References
 
@@ -196,12 +196,12 @@ response = requests.post(
 
 **Author**: Victor Prefa, MD  
 **Program**: Master of Data Science & Business Analytics, Deakin University (Distinction)  
-**Course**: SIG788 – Engineering AI Solutions
+**Course**: Engineering AI Solutions
 
 ## Clinical Relevance
 
-With 17+ years of clinical experience, I bring unique perspective to healthcare computer vision applications—understanding both the technical requirements and clinical realities of deploying AI in medical settings.
+With over 17 years of clinical experience, I bring a unique perspective to healthcare computer vision applications—understanding both the technical requirements and the clinical realities of deploying AI in medical settings.
 
 ## License
 
-Educational project. Available as reference for computer vision concepts and Azure AI implementations.
+Educational project. Available as a reference for computer vision concepts and Azure AI implementations.
