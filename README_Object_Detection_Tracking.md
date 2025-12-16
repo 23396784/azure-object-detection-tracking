@@ -283,7 +283,7 @@ azure-object-detection-tracking/
 
 **Author:** Victor Prefa, MD  
 **Program:** Master of Data Science & Business Analytics, Deakin University (Distinction)  
-**Course:** SIG788 – Engineering AI Solutions  
+**Course: Engineering AI Solutions  
 **Level:** Distinction-level submission
 
 ## Clinical Relevance
